@@ -1,0 +1,111 @@
+├── github_repo.md
+├── package-lock.json
+├── package.json
+├── postcss.config.cjs
+├── prisma
+│   └── schema.prisma
+├── README.md
+├── src
+│   ├── app.html
+│   ├── app.postcss
+│   ├── lib
+│   │   └── components
+│   │       ├── AccountMenuLinks.svelte
+│   │       ├── AppsMenuLinks.svelte
+│   │       ├── Big2TinyLogo.svelte
+│   │       ├── Card.svelte
+│   │       ├── Navbar.svelte
+│   │       ├── NavbarIconLink.svelte
+│   │       ├── NavbarMenuLinks.svelte
+│   │       └── PageTitle.svelte
+│   └── routes
+│       ├── +layout.svelte
+│       ├── +page.svelte
+│       ├── about
+│       │   └── +page.svelte
+│       ├── apps
+│       │   └── +page.svelte
+│       ├── auth
+│       │   ├── +page.svelte
+│       │   ├── login
+│       │   │   └── +page.svelte
+│       │   ├── logout
+│       │   │   └── +page.svelte
+│       │   ├── profile
+│       │   │   └── +page.svelte
+│       │   └── register
+│       │       └── +page.svelte
+│       ├── contact
+│       │   └── +page.svelte
+│       ├── legal
+│       │   └── +page.svelte
+│       └── settings
+│           └── +page.svelte
+├── static
+│   ├── about.png
+│   ├── account.png
+│   ├── apps.png
+│   ├── computer-chat.png
+│   ├── contact.png
+│   ├── dark-mode.png
+│   ├── dark-mode.svg
+│   ├── facebook.png
+│   ├── favicon.png
+│   ├── fbmessenger.png
+│   ├── fof-logo.png
+│   ├── icon.png
+│   ├── icons
+│   │   ├── android-chrome-144x144.png
+│   │   ├── android-chrome-192x192.png
+│   │   ├── android-chrome-256x256.png
+│   │   ├── android-chrome-36x36.png
+│   │   ├── android-chrome-384x384.png
+│   │   ├── android-chrome-48x48.png
+│   │   ├── android-chrome-512x512.png
+│   │   ├── android-chrome-72x72.png
+│   │   ├── android-chrome-96x96.png
+│   │   ├── apple-touch-icon-120x120-precomposed.png
+│   │   ├── apple-touch-icon-120x120.png
+│   │   ├── apple-touch-icon-152x152-precomposed.png
+│   │   ├── apple-touch-icon-152x152.png
+│   │   ├── apple-touch-icon-180x180-precomposed.png
+│   │   ├── apple-touch-icon-180x180.png
+│   │   ├── apple-touch-icon-60x60-precomposed.png
+│   │   ├── apple-touch-icon-60x60.png
+│   │   ├── apple-touch-icon-76x76-precomposed.png
+│   │   ├── apple-touch-icon-76x76.png
+│   │   ├── apple-touch-icon-precomposed.png
+│   │   ├── apple-touch-icon.png
+│   │   ├── browserconfig.xml
+│   │   ├── favicon-16x16.png
+│   │   ├── favicon-32x32.png
+│   │   ├── favicon.ico
+│   │   ├── mstile-150x150.png
+│   │   ├── safari-pinned-tab.svg
+│   │   └── site.webmanifest
+│   ├── icons8-dark-64.png
+│   ├── legal.png
+│   ├── light-mode.png
+│   ├── light-mode.svg
+│   ├── light.png
+│   ├── linkedin.png
+│   ├── login.png
+│   ├── logout.png
+│   ├── manifest.json
+│   ├── moon.png
+│   ├── online.png
+│   ├── pinterest.png
+│   ├── profile.png
+│   ├── reddit.png
+│   ├── register.png
+│   ├── settings.png
+│   ├── snapchat.png
+│   ├── tiktok.png
+│   ├── twitter.png
+│   ├── video
+│   │   ├── Friend_of_the_Families.mp4
+│   │   └── up_and_coming_brand.mp4
+│   └── youtube.png
+├── svelte.config.js
+├── tailwind.config.cjs
+└── vite.config.js
